@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Dhawal Panchal!
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession or Field, e.g., "Data Analyst and Machine Learning Engineer"] dedicated to solving real-world problems through data-driven insights and innovative solutions. 
+Welcome to my GitHub profile! I'm a passionate "Data Analyst and Machine Learning Engineer" dedicated to solving real-world problems through data-driven insights and innovative solutions. 
 
 ---
 
@@ -42,7 +42,7 @@ Highlight the tools/technologies used and the impact of this project.
 
 ## 📫 Connect with Me
 
-- 📄 [My Resume](EM_Resume.docx)  
+- 📄 [My Resume]()  
 - 💌 Email: [dhawalpanchal12@gmail.com](mailto:your-email@example.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dhawalpanchalcloud/)  
 - 🌐 [Portfolio](https://thread-nutmeg-07a.notion.site/Dhawal-Panchal-5b81a0634abf4940acff48492dfcb43b?pvs=4)
