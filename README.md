@@ -42,7 +42,7 @@ Highlight the tools/technologies used and the impact of this project.
 
 ## 📫 Connect with Me
 
-- 📄 [My Resume](https://thread-nutmeg-07a.notion.site/Dhawal-Panchal-5b81a0634abf4940acff48492dfcb43b?pvs=4)  
+- 📄 [My Resume](EM_Resume.docx)  
 - 💌 Email: [dhawalpanchal12@gmail.com](mailto:your-email@example.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dhawalpanchalcloud/)  
 - 🌐 [Portfolio](https://thread-nutmeg-07a.notion.site/Dhawal-Panchal-5b81a0634abf4940acff48492dfcb43b?pvs=4)
