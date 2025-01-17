@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate "Data Analyst and Machine Learnin
 
 ## 📂 Featured Projects
 
-### [IMDB-Reviews-Sentimental-Analyst]([https://github.com/your-github-username/project1](https://github.com/dhawalpanchal1997/IMDB-Reviews-Sentimental-Analyst))
+### [IMDB-Reviews-Sentimental-Analyst](https://github.com/your-github-username/project1](https://github.com/dhawalpanchal1997/IMDB-Reviews-Sentimental-Analyst)
 A brief description of the project and the problem it solves.
 
 ### [Project Name 2](https://github.com/your-github-username/project2)
