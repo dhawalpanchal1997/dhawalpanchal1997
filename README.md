@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a passionate "Data Analyst and Machine Learnin
 ## 📂 Featured Projects
 
 ### [IMDB-Reviews-Sentimental-Analyst](https://github.com/dhawalpanchal1997/IMDB-Reviews-Sentimental-Analyst)
-•	Performed sentiment analysis and keyword extraction on IMDB movie reviews using Google BigQuery and Vertex AI. The project leveraged LLM-based models to analyze reviews for sentiment and extract meaningful keywords. 
-•	Developed queries for sentiment analysis and keyword extraction, evaluated LLM model accuracy, optimized prompts, and validated results through manual inspection. 
-•	Google BigQuery, Vertex AI, SQL, text-bison LLM. 
+-•	Performed sentiment analysis and keyword extraction on IMDB movie reviews using Google BigQuery and Vertex AI. The project leveraged LLM-based models to analyze reviews for sentiment and extract meaningful keywords. 
+-•	Developed queries for sentiment analysis and keyword extraction, evaluated LLM model accuracy, optimized prompts, and validated results through manual inspection. 
+-•	Google BigQuery, Vertex AI, SQL, text-bison LLM. 
 
 ### [Project Name 2](https://github.com/your-github-username/project2)
 Highlight the tools/technologies used and the impact of this project.
