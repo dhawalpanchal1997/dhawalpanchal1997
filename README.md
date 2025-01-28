@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate "Data Analyst and Machine Learnin
 
 ### 🌟 GitHub Stats
 
-![Dhawal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Dhawal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhawalpanchal1997&show_icons=true&theme=radical)
 
 ---
 
