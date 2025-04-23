@@ -83,9 +83,10 @@ AI solutions using LLMs. Passionate about building AI solutions to automate busi
 
 ![Dhawal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhawalpanchal1997&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhawalpanchal1997&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhawalpanchal1997&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 Thank you for visiting my GitHub profile! Let's connect and collaborate to create something amazing. 🚀
