@@ -5,7 +5,15 @@ Good hands-on experience in integrating AI models for real-time analytics and fo
 AI solutions using LLMs. Passionate about building AI solutions to automate business processes. 
 
 ---
+## 🤖 AI Enthusiast
 
+<div align="center">
+  <img src="https://media.giphy.com/media/jSz0KzE3Dk3KzrjBwW/giphy.gif" alt="AI GIF" width="200" />
+</div>
+
+I love exploring the world of Artificial Intelligence...
+
+---
 ## 🚀 About Me
 
 🌟 I'm a lifelong learner and a problem solver.  
@@ -86,6 +94,9 @@ AI solutions using LLMs. Passionate about building AI solutions to automate busi
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhawalpanchal1997&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhawalpanchal1997&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://komarev.com/ghpvc/?username=dhawalpanchal1997&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ---
 
