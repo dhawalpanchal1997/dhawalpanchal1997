@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Dhawal Panchal!
 
-Welcome to my GitHub profile! I'm a passionate "Data Analyst and Machine Learning Engineer" dedicated to solving real-world problems through data-driven insights and innovative solutions. 
+Welcome to my GitHub profile! I'm a Machine Learning and AI enthusiast with expertise in data analytics, statistical modeling, and predictive analytics.
+Good hands-on experience in integrating AI models for real-time analytics and forecasting. Skilled in developing
+AI solutions using LLMs. Passionate about building AI solutions to automate business processes. 
 
 ---
 
@@ -14,27 +16,50 @@ Welcome to my GitHub profile! I'm a passionate "Data Analyst and Machine Learnin
 
 ## 🛠️ Skills and Tools
 
-- **Programming Languages**: Python, SQL  
-- **Data Analytics**: Power BI, Tableau, Excel (VBA, Pivot Tables)  
-- **Machine Learning**: Scikit-learn, TensorFlow  
-- **Cloud Platforms**: AWS (Lambda, DynamoDB, API Gateway)  
-- **Tools & Technologies**: Git, dbt Cloud IDE, Jira
+**Programming Languages:** Python, SQL (MS SQL Server, MySQL, PostgreSQL), R
+
+**Machine Learning/Deep Learning:**
+* **Frameworks/Libraries:** TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, Hugging Face Transformers
+* **Techniques:** Regression, Classification, Clustering (K-Means), Decision Trees, Time Series Forecasting, Natural Language Processing (NLP), Sentiment Analysis
+
+**LLM and Generative AI:** langchain, pydentic, crewai, Langflow, Vertex AI, Hugging Face, Groq
+
+**AI Models:** OpenAI models, Gemini Models, Deepseek R1, Qwen, Lama, arima, bret, text-bison, etc.
+
+**Data Visualization/Business Intelligence:** Tableau, Power BI, Looker (LookML)
+
+**Data Engineering/Ops:** DBT, SQL Alchemy, ORM
+
+**Software Development Practices:** Agile Methodologies, GitHub, Bitbucket, Docker, Uvicorn, Unix/Linux
 
 ---
 
 ## 📂 Featured Projects
 
-### [IMDB-Reviews-Sentimental-Analyst](https://github.com/dhawalpanchal1997/IMDB-Reviews-Sentimental-Analyst)
-- Performed sentiment analysis and keyword extraction on IMDB movie reviews using Google BigQuery and Vertex AI. The project leveraged LLM-based models to analyze reviews for sentiment and extract meaningful keywords. 
-- Developed queries for sentiment analysis and keyword extraction, evaluated LLM model accuracy, optimized prompts, and validated results through manual inspection. 
-- Google BigQuery, Vertex AI, SQL, text-bison LLM. 
+**DeepSeek Code Companion** | [https://tinyurl.com/CodeCompanion](https://tinyurl.com/CodeCompanion)
+* Designed and developed an AI-powered coding assistant using Streamlit, LangChain, and Ollama to provide instant Python code suggestions, debugging solutions, and automated documentation generation for developers.
+* Implemented an interactive user interface with session persistence and model selection options, enabling a personalized, seamless debugging experience and optimizing response accuracy through prompt engineering.
+* **Technologies:** Python, Streamlit, LangChain, Ollama
 
-### [Seattle Air Quality Forecasting ](https://github.com/your-github-username/project2)
--	Developed a multivariate time series model (ARIMA_PLUS_XREG) to forecast daily PM2.5 levels using historical air quality, temperature, and wind speed data.
--	Created data models, implemented forecasting functions, evaluated model accuracy, and visualized trends using Looker Studio.
--	Google BigQuery, GoogleSQL, dbt Cloud IDE, Looker Studio, ARIMA_PLUS_XREG model.
+**Documind** | [https://tinyurl.com/documind](https://tinyurl.com/documind)
+* Built a RAG-powered Q&A app with Streamlit, OpenAI GPT-4, and LangChain to answer questions from PDF documents with strong citation-based accuracy and minimal hallucination.
+* Implemented semantic search using text-embedding-3-large and custom prompt engineering to retrieve relevant chunks and display real-time responses with source context.
+* **Technologies:** Python, LangChain, OpenAI GPT-4, Streamlit, PDFPlumber, Vector Embeddings, Dotenv, Prompt Engineering
 
+**Customer Segmentation & Product Recommendation for UK Retail Dataset** | [https://tinyurl.com/csprproject](https://tinyurl.com/csprproject)
+* Developed a data-driven strategy using K-means clustering. Created a recommendation system to suggest top-selling products within each customer segment to enhance marketing strategies and sales performance.
+* Conducted data cleaning, transformation, feature engineering, and clustering analysis. Implemented a product recommendation system based on customer segment preferences to boost sales.
+* **Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, K-means clustering algorithm
 
+**Seattle Air Quality Forecasting** | [https://tinyurl.com/saqfproject01](https://tinyurl.com/saqfproject01)
+* Developed a multivariate time series model (ARIMA_PLUS_XREG) to forecast daily PM2.5 levels using historical air quality, temperature, and wind speed data.
+* Created data models, forecasting functions, evaluated model accuracy, and visualized trends using Looker Studio.
+* **Technologies:** Google Big Query, Google SQL, dbt, Cloud IDE, Looker Studio, ARIMA_PLUS_XREG model
+
+**IMDB Reviews Sentimental Analyst** | [https://tinyurl.com/imdbrsaproject](https://tinyurl.com/imdbrsaproject)
+* Performed sentiment analysis and keyword extraction on IMDB movie reviews using Google Big Query and Vertex AI. The project leveraged LLM-based models to analyze reviews for sentiment and extract meaningful keywords.
+* Developed queries for sentiment analysis and keyword extraction, evaluated LLM model accuracy, optimized prompts, and validated results through manual inspection.
+* **Technologies:** Google Big Query, Vertex AI, SQL, text-bison LLM
 ---
 
 ## 🌟 Interests
