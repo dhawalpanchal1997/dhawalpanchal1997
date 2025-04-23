@@ -8,7 +8,7 @@ AI solutions using LLMs. Passionate about building AI solutions to automate busi
 ## 🤖 AI Enthusiast
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jSz0KzE3Dk3KzrjBwW/giphy.gif" alt="AI GIF" width="200" />
+  <img src="https://media.giphy.com/media/YOUR_NEW_GIF_ID/giphy.gif" alt="AI GIF" width="200" />
 </div>
 
 I love exploring the world of Artificial Intelligence...
