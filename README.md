@@ -86,17 +86,21 @@ I love exploring the world of Artificial Intelligence...
 - 🌐 [Portfolio](https://thread-nutmeg-07a.notion.site/Dhawal-Panchal-5b81a0634abf4940acff48492dfcb43b?pvs=4)
 
 ---
+---
 
-### 🌟 GitHub Stats
+## 📈 GitHub Stats
 
-![Dhawal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhawalpanchal1997&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhawalpanchal1997&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhawalpanchal1997&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhawalpanchal1997&layout=compact&theme=dracula" alt="Top Languages" />
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhawalpanchal1997&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 👀 Profile Views
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhawalpanchal1997&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile views](https://komarev.com/ghpvc/?username=dhawalpanchal1997&label=Profile%20views&color=0e75b6&style=flat)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhawalpanchal1997&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
